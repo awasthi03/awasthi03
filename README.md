@@ -1,6 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 # 💫 About Me:
 🔭 I’m currently working on ChatGPT App<br><br>🌱 I’m currently learning Spring, GWT, Django, Bootstrap<br><br>👯 I’m looking to collaborate on Stock Market Simulator<br><br>🤝 I’m looking for help with Music Player<br><br>💬 Ask me about Android<br><br>⚡Fun fact I code sometimes
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 ## 🌐 Socials:
