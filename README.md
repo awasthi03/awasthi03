@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Naman Awasthi</h1>
 <h3 align="center">A passionate .NET Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-# 💫 About Me:
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+💫 About Me:
 🔭 I’m currently working in .NET MicroServices<br>🌱 I’m currently learning MicroServices, ASP.NET, Web APIs, MVC Architecture, Entity Framework Core and other .NET Concepts<br>👯 I’m looking to collaborate on a few .NET projects that I want to integrate with front end libraries <br>💬 Ask me about .NET<br>⚡Fun fact I code sometimes
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/being_nmn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naman--/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AwasthiNaman03) 
