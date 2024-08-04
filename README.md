@@ -1,9 +1,9 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 <h1 align="center">Hi 👋, I'm Naman Awasthi</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h3 align="center">A passionate .NET Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 # 💫 About Me:
-🔭 I’m currently working on ChatGPT App<br><br>🌱 I’m currently learning Spring, GWT, Django, Bootstrap<br><br>👯 I’m looking to collaborate on Stock Market Simulator<br><br>🤝 I’m looking for help with Music Player<br><br>💬 Ask me about Android<br><br>⚡Fun fact I code sometimes
+🔭 I’m currently working in .NET MicroServices <br><br>🌱 I’m currently learning MicroServices, ASP.NET, Web APIs, MVC Architecture, Entity Framework Core and other .NET Concepts <br><br>👯 I’m looking to collaborate on a few .NET projects that I want to integrate with front end libraries <br><br>💬 Ask me about .NET <br><br>⚡Fun fact I code sometimes
 
 
 ## 🌐 Socials:
